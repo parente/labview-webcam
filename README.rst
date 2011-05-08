@@ -12,7 +12,7 @@ People still email me about this library. I'm flattered, but it's really not in 
 What can I use instead?
 =======================
 
-National Instruments offers a <a href="http://zone.ni.com/devzone/cda/epd/p/id/5030">free NI-IMAQ driver for USB cameras</a> that works in LabVIEW 7.1 or higher. Please use it.
+National Instruments offers a `free NI-IMAQ driver for USB cameras <http://zone.ni.com/devzone/cda/epd/p/id/5030>`_ that works in LabVIEW 7.1 or higher. Please use it.
 
 But I still want your lib!
 ==========================
